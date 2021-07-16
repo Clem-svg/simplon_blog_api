@@ -5,4 +5,12 @@ class Category {
   }
 }
 
-export default Category;
+const myCategory = new Category(id=1, label="Market")
+const myUpdatedCategory = new Category(myCategory.id, label="Vegetables")
+
+
+module.exports = {
+  myCategory,
+  myUpdatedCategory,
+  Category
+};
