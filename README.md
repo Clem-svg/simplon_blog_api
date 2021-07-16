@@ -1,13 +1,14 @@
-mvc method_ model view controller
-Pas de view car API _
-Les modèles gèrent les données (ici en json)
-Controllers gèrent les requêtes et interagissent avec les modèles pour renvoyer les bonnes données
+
+# Test Simplon CA
+
+## Dans un dépôt Gitlab/Github dont tu nous donneras le lien :
+
+![Screenshot](cda.png)
 
 
-npm install my sql
+créer les **entités correspondantes** ;
+créer les **composants d'accès aux données** (Repository/DAO) pour ces entités ;
+rendre le CRUD accessible via une **API REST** ;
+décrire dans un fichier tes choix, la méthodologie employée, les difficultés rencontrées, les ressources utilisées, le temps passé…
 
-nodemon pour ne pas relancer le server à chaque fois
-
-https://www.w3schools.com/sql/default.asp
-
-https://dev.mysql.com/doc/
+Aucune contrainte sur le langage, mais il est interdit d'utiliser un framework ou un ORM.
