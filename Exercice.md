@@ -18,11 +18,10 @@
 * API sur le model MVC (sans view) : Les modèles gèrent les données (ici en json), les controllers gèrent les requêtes et interagissent avec les modèles pour renvoyer les bonnes données.
 * API créée avec node.js (nodemon pour ne pas relancer le server à chaque fois)
 * Les appels à l'API ont été testé sur Insomnia
-* Tutoriel suivi pour la base de la construction
-  ** https://youtu.be/_1xa8Bsho6A
-* Pour lancer l'api :
-  `npm install`
-  `npm start`
+* Tutoriel suivi pour la base de la construction :  https://youtu.be/_1xa8Bsho6A
+>  Pour lancer l'api :
+  * `npm install`
+  * `npm start`
 
 
 Le projet m'a demandé environ 5 jours de travail, une grande partie passée à lire de la documentation avant de me lancer.
